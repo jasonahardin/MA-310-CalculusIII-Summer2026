@@ -23,11 +23,11 @@
 
 
 
-    <!-- <chapter xml:id="practice-problems">
+    <chapter xml:id="practice-problems">
       <title>Practice Problems</title>
 
       <xi:include href="./practiceproblems/Unit01A_ThreeDimensionalGeometry.ptx" />
-    </chapter> -->
+    </chapter>
 
 
 
