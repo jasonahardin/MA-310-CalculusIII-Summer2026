@@ -27,6 +27,7 @@
       <title>Practice Problems</title>
 
       <xi:include href="./practiceproblems/Unit01A_ThreeDimensionalGeometry.ptx" />
+      <xi:include href="./practiceproblems/Unit01B_Vectors.ptx" />
     </chapter>
 
 
