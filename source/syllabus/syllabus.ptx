@@ -445,8 +445,8 @@
     
   </subsubsection>
 
-  <subsection xml:id="subsec-slos-lasc">
-    <title>Student Learning Outcomes and LASC</title>
+  <subsection xml:id="subsec-slos">
+    <title>Student Learning Outcomes</title>
 
     <paragraphs>
       <title>Student Learning Outcomes</title>
@@ -456,102 +456,27 @@
       <ol>
         <li>
           <p>
-            Apply different techniques of integration, including substitution, integration by parts, partial fractions, and trigonometric substitution.
+            Represent vectors analytically and geometrically, and compute dot and cross products to solve problems and present lines and planes.
           </p>
         </li>
         <li>
           <p>
-            Use the definite integral in a variety of applications, such as volumes of solids of revolution, arc length of curves, and separable differential equations.
+            Analyze vector functions to find derivatives, tangent lines, integrals, arc length, and curvature.
           </p>
         </li>
         <li>
           <p>
-            Determine absolute and conditional convergence of series using a variety of methods including the integral test, comparison test, limit comparison test, alternating series test, ratio test, and root test.
+            Compute limits and derivatives of functions of two or three variables, and use these concepts to solve optimization problems.
           </p>
         </li>
         <li>
           <p>
-            Perform operations on power series to construct related power series.
+            Evaluate double and triple integrals, including conversion to polar, cylindrical, and spherical coordinates.
           </p>
         </li>
         <li>
           <p>
-            Compute Taylor series of functions and their intervals of convergence.
-          </p>
-        </li>
-      </ol>
-    </paragraphs>
-
-    <paragraphs>
-      <title>Liberal Arts and Sciences Curriculum (LASC)</title>
-      <p>
-        This course counts toward the Quantitative Reasoning (QR) category of the Liberal Arts and Sciences Curriculum (LASC).
-        The course addresses the following LASC Quantitative Reasoning objectives:
-      </p>
-      <ol>
-        <li>
-          <p>
-            Acquaint students with formal systems, procedures, and sequences of operations.
-          </p>
-        </li>
-        <li>
-          <p>
-            Strengthen students' understanding of variables and functions.
-          </p>
-        </li>
-        <li>
-          <p>
-            Apply mathematical techniques to the analysis and solution of real-life problems.
-          </p>
-        </li>
-        <li>
-          <p>
-            Emphasize the importance of accuracy, including precise language and careful definitions of mathematical concepts.
-          </p>
-        </li>
-        <li>
-          <p>
-            Understand both the underlying principles and practical applications of one or more fields of mathematics.
-          </p>
-        </li>
-        <li>
-          <p>
-            Strengthen understanding of the relationship between algebraic and graphical representations.
-          </p>
-        </li>
-      </ol>
-      <p>
-        and the following LASC Overarching objectives:
-      </p>
-      <ol>
-        <li>
-          <p>
-            Communicate effectively orally and in writing.
-          </p>
-        </li>
-        <li>
-          <p>
-            Understand and employ quantitative and qualitative reasoning.
-          </p>
-        </li>
-        <li>
-          <p>
-            Apply skills in critical thinking.
-          </p>
-        </li>
-        <li>
-          <p>
-            Understand the roles of science and technology in our modern world.
-          </p>
-        </li>
-        <li>
-          <p>
-            Make connections across courses and disciplines.
-          </p>
-        </li>
-        <li>
-          <p>
-            Develop as healthy individuals - physically, emotionally, socially, ethically, and intellectually.
+            Analyze vector fields and evaluate line integrals.
           </p>
         </li>
       </ol>
@@ -563,8 +488,8 @@
     <p>
       The following table indicates the due dates for all assignments as well as the dates for the in-person exams. 
       In this table "OPS" stands for "Online Problem Set" and "WPS" stands for "Written Problem Set".
-      Note that the last day to drop the course is <alert> Tuesday, May 26</alert>, and 
-      the last day to withdraw or elect pass/fail status is <alert> Friday, June 5 </alert>. 
+      Note that the last day to drop the course is <alert> Tuesday, July 21</alert>, and 
+      the last day to withdraw or elect pass/fail status is <alert> Friday, July 31</alert>. 
     </p>
     <tabular halign="center" bottom="medium">
       <row header="yes">
@@ -573,93 +498,92 @@
         <cell>Friday</cell>
       </row>
       <row>
-        <cell>May 18</cell>
+        <cell>July 13</cell>
         <cell></cell>
         <cell>
-          <line>OPS 1A:  Substitution</line>
-          <line>OPS 1B:  Integration by Parts</line>
+          <line>OPS 1A:  3-Dimensional Coordinate System</line>
+          <line>OPS 1B:  Vectors</line>
           <line>WPS 1</line>
         </cell>
       </row>
       <row>
-        <cell>May 25</cell>
+        <cell>July 20</cell>
         <cell>
-          <line>OPS 2A: Trigonometric Integrals</line>
-          <line>OPS 2B: Trigonometric Substitution</line>
+          <line>OPS 2A: Dot Product</line>
+          <line>OPS 2B: Cross Product</line>
           <line>WPS 2</line>
         </cell>
         <cell>
-          <line>OPS 3A:  Partial Fractions</line>
-          <line>OPS 3B:  Improper Integrals</line>
+          <line>OPS 3A:  Lines and Planes</line>
+          <line>OPS 3B:  Vector Functions</line>
           <line>WPS 3</line>
           <line>Quiz 1: Units 1 and 2</line>
         </cell>
       </row>
       <row>
-        <cell>June 1</cell>
+        <cell>July 27</cell>
         <cell>
-          <line>OPS 4A: Volume</line>
-          <line>OPS 4B: Arclength</line>
+          <line>OPS 4A: Arclength</line>
+          <line>OPS 4B: Curvature</line>
           <line>WPS 4</line>
         </cell>
         <cell>
-          <line>OPS 5A:  Separable Differential Equations</line>
-          <line>OPS 5B:  Sequences</line>
+          <line>OPS 5A:  Functions of Several Variables</line>
+          <line>OPS 5B:  Partial Derivatives</line>
           <line>WPS 5</line>
           <line>Quiz 2: Units 3 and 4</line>
         </cell>
       </row>
       <row>
-        <cell>June 8</cell>
+        <cell>August 3</cell>
         <cell>
           <line><alert>Midterm</alert></line>
           <line>9:00am - 11:00am, Sullivan 136</line>
         </cell>
         <cell>
-          <line>OPS 6A:  Series</line>
-          <line>OPS 6B:  Geometric Series</line>
+          <line>OPS 6A:  Chain Rule</line>
+          <line>OPS 6B:  Directional Derivatives and Gradients</line>
           <line>WPS 6</line>
         </cell>
       </row>
       <row>
-        <cell>June 15</cell>
+        <cell>August 10</cell>
         <cell>
-          <line>OPS 7A: Integral Test</line>
-          <line>OPS 7B: Comparison Tests</line>
+          <line>OPS 7A: Extrema</line>
+          <line>OPS 7B: Lagrange Multipliers</line>
           <line>WPS 7</line>
           <line>Quiz 3: Units 5 and 6</line>
         </cell>
         <cell>
-          <line>OPS 8A:  Alternating Series</line>
-          <line>OPS 8B:  Ratio and Root Tests</line>
+          <line>OPS 8A:  Double Integrals</line>
+          <line>OPS 8B:  Double Integrals with Polar Coordinates</line>
+          <line>OPS 8C:  Triple Integrals</line>
           <line>WPS 8</line>
         </cell>
       </row>
       <row>
-        <cell>June 22</cell>
+        <cell>August 17</cell>
         <cell>
-          <line>OPS 9A: Power Series</line>
-          <line>OPS 9B: Power Series Representations</line>
+          <line>OPS 9A: Vector Fields</line>
+          <line>OPS 9B: Line Integrals</line>
           <line>WPS 9</line>
           <line>Quiz 4: Units 7 and 8</line>
         </cell>
         <cell>
-          <line>OPS 10A:  Taylor and Maclaurin Series</line>
-          <line>OPS 10B:  Working with Taylor Series</line>
+          <line>OPS 10A:  Path Independence</line>
+          <line>OPS 10B:  Green's Theorem</line>
           <line>WPS 10</line>
         </cell>
       </row>
       <row>
-        <cell>June 29</cell>
+        <cell>August 24</cell>
         <cell>
-          <line>Quiz 5:  Units 9 and 10 (due Mon 6/29)</line>
+          <line>Quiz 5:  Units 9 and 10 (due Mon 8/24)</line>
           <line></line>
-          <line><alert>Final Exam (Wed 7/1)</alert> </line>
+          <line><alert>Final Exam</alert> </line>
           <line>9:00am - 12:00pm, Sullivan 136</line>
         </cell>
         <cell>
-          <line>OPS 11A:  Parametric Equations</line>
-          <line>OPS 11B:  Polar Coordinates</line>
         </cell>
       </row>
     </tabular>
