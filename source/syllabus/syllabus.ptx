@@ -1,0 +1,667 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<section xml:id="syllabus" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>MA-310-BL: Calculus III</title>
+
+  <introduction>
+    <p>
+      Worcester State University, Summer II 2026
+    </p>
+  </introduction>
+
+  <subsection xml:id="sec-instructor-course-info">
+    <title>Instructor and Course Information</title>
+
+    <p>
+      <dl>
+        <li>
+          <title>Instructor</title>
+          <p>
+            Dr. Jason A. Hardin, Professor of Mathematics
+          </p>
+        </li>
+        <li>
+          <title>Email</title>
+          <p>
+             <url href="mailto:jhardin@worcester.edu">jhardin@worcester.edu</url>
+          </p>
+        </li>
+        <li>
+          <title>Instructor Availability</title>
+
+          <p>
+            There are no official office hours for this course; any questions should be addressed through email or via the MyOpenMath message system. 
+            All emails and messages will receive a response within 24 hours; typically, emails and messages received by 4:00pm EST 
+            will receive a response the same day, and those received after 4:00pm EST will receive a response the following day.
+            Virtual Zoom appointments are available upon request with advance notice.
+          </p>
+        </li>
+        <li>
+          <title>Prerequisite</title>
+
+          <p>
+            Complete MA-201 (Calculus II) with a grade of at least C-.
+          </p>
+        </li>
+        <li>
+          <title>Future Coursework</title>            
+          <p>
+            Students who need to take MA-380 (Probability) must earn a C- or higher in this course; 
+            students who need to take MA-410 (Real Analysis) must earn a B- or higher in this course.
+          </p>
+        </li>
+      </dl>
+    </p>
+
+    <paragraphs>
+      <title>Responsibility for Learning</title>
+      <p>
+        Every student in this course is responsible for their own learning; this is especially true given the modality of the course. 
+        The instructor will make every effort to support you; however, if you need any help, it is your responsibility to reach out to the instructor.
+      </p>
+    </paragraphs>
+
+    <paragraphs>
+      <title>Course Content</title>
+      <p>
+        This is a multivariable calculus course involving both theory and applications; it is a continuation of MA-200 (Calculus I) and MA-201 (Calculus II). 
+        The main topics include vectors, lines and planes in space, vector functions, functions of several variables, partial derivatives, multiple integrals, 
+        line integrals, and Green's Theorem.
+      </p>
+    </paragraphs>
+
+    <paragraphs>
+      <title>Course Technology Requirements</title>
+      <p>
+        Given the primarily online format of the course, students should be fluent with basic technological tasks such as getting online, 
+        using email, and uploading documents. In order to take this course, you need to have access to the following 
+        (if any of these are an issue, you should contact your instructor by Friday, July 17.): 
+      </p>
+      <ul>
+        <li>
+          <p>
+            A computer capable of accessing the internet.
+          </p>
+        </li>
+        <li>
+          <p>
+            A high-speed internet connection.
+          </p>
+        </li>
+        <li>
+          <p>
+            A phone or tablet (equipped with an appropriate app) with working camera capable of scanning written work into a single PDF, 
+            or a scanner with this same capability. 
+          </p>
+        </li>
+      </ul>
+    </paragraphs>
+
+    <paragraphs>
+      <title>Required Course Materials</title>
+      <p>
+        All course documents, materials, and assignments will be posted on <url href="https://www.myopenmath.com">MyOpenMath (MOM) </url>, a free online course management system specifically designed for mathematics. 
+        Course material will be presented through instructor-created videos available on MyOpenMath. 
+        A textbook is not required, though we will loosely follow the free open-source textbook "Calculus (Volume 3)" by Strang and Herman; 
+        links to both an online version and a downloadable PDF will be posted on MyOpenMath.
+      </p>
+    </paragraphs>
+
+    <paragraphs>
+      <title>Calculator Usage</title>
+      <p>
+        Calculators will not be permitted on exams. 
+        They may be used on homework for routine calculations (such as basic arithmetic), but should otherwise not be used. 
+        Exact answers should always be given!
+      </p>
+    </paragraphs>
+  </subsection>
+
+  <subsection xml:id="sec-course-structure-assignments-grading">
+    <title>Course Structure, Assignments, and Grading</title>
+
+    <paragraphs>
+      <title>Course Structure</title>
+      <p>
+        This is a blended asynchronous course which combines asynchronous online work and in-person exams. 
+        All direct learning of course material will be done independently using a series of instructor-created videos. 
+        This allows you to work on your own schedule and at your own pace throughout the summer session (while meeting deadlines) with the ability to go back and review material as needed. 
+        It is strongly encouraged you try to work on course material each day throughout the week. 
+        The course is broken up into 10 units, due on most Tuesdays and Fridays throughout the session; each unit is roughly equivalent to a full week of a normal semester. 
+        The typical unit will cover two major topics from calculus, and will consist of the following:
+      </p>
+      <ul>
+        <li>
+          <p>
+            A series of videos posted on MyOpenMath presenting the course content.
+          </p>
+        </li>
+        <li>
+          <p>
+            Two online problem sets, one for each topic, completed on MyOpenMath. 
+          </p>
+        </li>
+        <li>
+          <p>
+            A written problem set covering all the material in the unit, scanned as a single PDF and submitted on MyOpenMath.
+          </p>
+        </li>
+        <li>
+          <p>
+            A timed closed-note online quiz administered on MyOpenMath will follow the even-numbered units.
+          </p>
+        </li>
+      </ul>
+      <p>
+        More details about these assessments can be found below in the appropriate sections; a schedule with due dates can be found at the end of the syllabus. 
+        Due to the amount of work required for the course, you are strongly encouraged to work on course material each day throughout the week, as much as possible. 
+        This will lead to a better understanding of the course material, and subsequently a better course grade. 
+        Despite the asynchronous nature of the course, you are welcome to reach out to the instructor at any time with questions. 
+        The asynchronicity is designed to provide flexibility on when you work on the course material, not to create a hindrance to your success.
+      </p>
+    </paragraphs>
+
+    <paragraphs>
+      <title>Deadlines and LatePasses</title>
+      <p>
+        All assignments in the course will have strict deadlines that must be met to receive credit. 
+        To account for any unexpected emergencies or technical issues that may occur, we will utilize the LatePass feature in MyOpenMath. 
+        A LatePass can be redeemed for an automatic 48-hour extension on an assignment (some exclusions apply, listed below); 
+        to use a LatePass, click the 'Use LatePass' button next to the appropriate assignment on MyOpenMath and the platform will automatically 
+        extend the due date for that assignment to 48 hours after the original due date. 
+        Each student will be given 15 LatePasses to use as they wish throughout the course, with the caveat that only one LatePass can be used on any single assignment. 
+        LatePasses cannot be used on an online homework set that you view in 'Practice' mode prior to redeeming the LatePass. 
+        If circumstances require a more substantial extension, contact your instructor as soon as possible to discuss this possibility; 
+        documentation of the circumstances will be required. 
+      </p>
+    </paragraphs>
+
+    <paragraphs>
+      <title>Content Videos</title>
+      <p>
+        All course content will be presented using a series of instructor-created videos, posted to YouTube and available through MyOpenMath. 
+        The videos will provide all relevant definitions, technique descriptions, and completely worked-out examples. 
+      </p>
+    </paragraphs>
+
+    <paragraphs>
+      <title>Online Problem Sets</title>
+      <p>
+        There will be two online problem sets for each unit, due 11:59pm on Tuesdays and Fridays according to the schedule at the end of this syllabus. 
+        While the number of problems in each set will vary, each set will be weighted equally. 
+        No online problem set scores will be dropped.
+        The online problem sets are set up so you can try most problems two times, then the correct answer will be shown 
+        (there may be some questions in which you have only one try, this will be indicated in the problem set). 
+        If you miss a problem and want to improve your score, you can click the 'Try a similar problem' link, which will give you a new question of the same type. 
+        You can continue working on versions of a question until you get it correct. 
+        You must earn at least 50% on a problem set for your score to count towards your grade; any set on which you earn less than 50% will be counted as a 0. 
+        Problem sets will remain available in 'Practice' mode after their due date to provide additional practice of concepts; 
+        new versions of problems can be generated and answered, but scores will not be saved. 
+        Be aware that opening an online problem set in 'Practice' mode will disqualify you from being able to redeem a LatePass on that assignment!
+      </p>
+      <p>
+        Although you will be entering only answers, I encourage you to work out each problem carefully on paper. 
+        This will help you follow your reasoning when you are reviewing for quizzes and exams. 
+        I strongly encourage you to start each problem set right away so you will have ample time to ask any questions that arise. 
+        The problems are intended to both provide practice of concepts covered in the videos as well as extend these concepts beyond what is done in the videos - 
+        in particular, you should expect to find some of the problems difficult. 
+        Many quiz or exam problems will be based on the problem sets, including the more difficult ones, 
+        so you should aim to understand the underlying idea for each assigned problem.
+      </p>
+      <p>
+        If you are having trouble on a problem, you may use the 'Message Instructor' link, which will allow you to send me a message through MyOpenMath; 
+        the specific problem you are working on will be automatically included in the message. I can then reply to the message with some guidance. 
+        These messages are internal to MyOpenMath and not email, so my reply will go to your messages when you log in to MyOpenMath.
+      </p>
+    </paragraphs>
+
+    <paragraphs>
+      <title>Written Problem Sets</title>
+      <p>
+         Each unit will include a written problem set posted on MyOpenMath, due by 11:59pm on Tuesdays and Fridays, according to the schedule. 
+         Solutions to all problems should be written up neatly, include all relevant work, and use proper notation, like the examples in the videos. 
+         While obtaining a correct answer is important, you may lose points even when an answer is correct if you 
+         did not provide adequate work or use proper notation in your solution. 
+         Every written problem set should be submitted to MyOpenMath as a single PDF. 
+         Written problem sets submitted as multiple files, in a format other than a PDF, or submitted via email will not be graded. 
+         All written problem sets will be weighted equally and none will be dropped.
+      </p>
+    </paragraphs>
+
+    <paragraphs>
+      <title>Online Quizzes</title>
+      <p>
+        A timed, closed-note quiz in MyOpenMath will follow the even-numbered units, and will be due by 11:59pm on the following Tuesday/Friday along with the next unit; 
+        the quiz following Unit 10 will be due on Monday, August 24 (the night before the final exam). 
+        All five quiz scores will be weighted equally; none will be dropped.
+        You will have 60 minutes to take each quiz; once you start, you must finish within 60 minutes. 
+        Once you submit your quiz in MyOpenMath, you must take pictures of or scan all relevant work you performed and submit it on MyOpenMath. 
+        <alert>You must submit all work which supports your quiz answers within 20 minutes of completing your quiz; failure to do so will result in a score of 0 on that quiz.</alert>
+        I reserve the right to deduct points from a quiz problem if it is not fully supported in your submitted work, even if the answer is correct. 
+        Although quizzes will be completed online and will not be monitored, quizzes are intended to be closed-note; 
+        any evidence of cheating will result in a 0 on that quiz.
+      </p>
+    </paragraphs>
+
+    <paragraphs>
+      <title>Exams</title>
+      <p>
+        There will be two closed-note exams in the course, a midterm and a cumulative final exam, administered in-person in Sullivan 136 on the following dates:
+      </p>
+      <ul>
+        <li>
+          <p>
+            The midterm will be on Tuesday, August 4, 9:00am-11:00am. 
+          </p>
+        </li>
+        <li>
+          <p>
+            The cumulative final exam will be on Tuesday, August 25, 9:00am-12:00pm. 
+          </p>
+        </li>
+      </ul>
+      <p>
+        Make-up midterm exams will not be given for any reason; if you miss the midterm for a legitimate and documented reason, 
+        your score on the portion of the final exam covering the midterm's material will be considered your midterm score. 
+        Make-up final exams will be given at the instructor's discretion and only when there is a legitimate and documented reason for missing the original final exam. 
+        Work obligations or arriving late for class are not legitimate reasons for missing an exam.
+      </p>
+    </paragraphs>
+
+    <paragraphs>
+      <title>Grade Allocation</title>
+      <p>
+        Your course grade will be determined by the following distribution. 
+        <alert>Note that you must get at least a 50% on the final exam in order to pass the class.</alert>
+      </p>
+      <tabular>
+            <row header="yes">
+                <cell>Assignment</cell>
+                <cell>Percentage</cell>
+            </row>
+            <row>
+                <cell>Online Problem Sets</cell>
+                <cell>15%</cell>
+            </row>
+            <row>
+                <cell>Written Problem Sets</cell>
+                <cell>15%</cell>
+            </row>
+            <row>
+                <cell>Online Quizzes</cell>
+                <cell>15%</cell>
+            </row>
+            <row>
+                <cell>Midterm</cell>
+                <cell>20%</cell>
+            </row>
+            <row>
+                <cell>Final Exam</cell>
+                <cell>35%</cell>
+            </row>
+        </tabular>
+    </paragraphs>
+
+    <paragraphs>
+      <title>Grading Scale</title>
+      <p>
+        Letter grades will be assigned as follows. Grades will not be curved or rounded.
+      </p>
+      <tabular halign="center" bottom="medium">
+        <row header="yes">
+            <cell>Letter Grade</cell>
+            <cell>Percent Needed</cell>
+        </row>
+        <row>
+            <cell>A</cell>
+            <cell>93%</cell>
+        </row>
+        <row>
+            <cell>A-</cell>
+            <cell>90%</cell>
+        </row>
+        <row>
+            <cell>B+</cell>
+            <cell>87%</cell>
+        </row>
+        <row>
+            <cell>B</cell>
+            <cell>83%</cell>
+        </row>
+        <row>
+            <cell>B-</cell>
+            <cell>80%</cell>
+        </row>
+        <row>
+            <cell>C+</cell>
+            <cell>77%</cell>
+        </row>
+        <row>
+            <cell>C</cell>
+            <cell>73%</cell>
+        </row>
+        <row>
+            <cell>C-</cell>
+            <cell>70%</cell>
+        </row>
+        <row>
+            <cell>D+</cell>
+            <cell>67%</cell>
+        </row>
+        <row>
+            <cell>D</cell>
+            <cell>63%</cell>
+        </row>
+        <row>
+            <cell>D-</cell>
+            <cell>60%</cell>
+        </row>
+        <row>
+            <cell>E</cell>
+            <cell>Below 60%</cell>
+        </row>
+      </tabular>
+    </paragraphs>
+  </subsection>
+
+  <subsubsection xml:id="subsubsec-course-policies">
+    <title>Course Policies</title>
+
+    <paragraphs>
+      <title>Extra Credit</title>
+      <p>
+        There will be no extra credit available in this course. 
+        If you are interested in raising your grade, take the time you would have spent on an extra credit assignment and spend it making sure you get more "regular credit" instead: 
+        master a topic you've found difficult, find exercises in the textbook to work on, spend a few extra hours studying, etc.
+      </p>
+    </paragraphs>
+
+    <paragraphs>
+      <title>Studying and Coursework</title>
+      <p>
+        To succeed in this course, you will need to dedicate a significant amount of time to working on calculus. 
+        Mathematics is learned by doing, meaning it is important to work numerous problems to fully understand the concepts we cover. 
+        The assigned homework is the minimum amount you should be completing; if you feel that you don't fully understand a concept, work extra problems from a textbook or ask me for some additional practice problems. 
+        This is a 4-credit summer course, which means there should be 8 learning hours per week (a fully face-to-face section of the course would be required to meet 8 hours per week). 
+        A general rule in all college courses is for each hour of class per week you spend a minimum of two hours outside of class on homework, studying, reading the text, etc. 
+        Since this course has 8 online learning hours per week, you should plan to spend an additional 16 hours (for a total of at least 24 hours) working on calculus per week.
+        This will, of course, vary for every student.
+      </p>
+    </paragraphs>
+
+    <paragraphs>
+      <title>Accommodations</title>
+      <p>
+        If you anticipate issues related to the format or requirements of this course, please contact me as early as possible to discuss ways to ensure your full participation. 
+        If you believe formal, disability-related accommodations are appropriate, it is very important you register with the Student Accessibility Services office 
+        and notify me of your eligibility for such accommodations. 
+        We can then plan how to best coordinate your accommodations.
+      </p>
+    </paragraphs>
+
+    <paragraphs>
+    <title>Academic Integrity and AI Usage</title>
+      <p>
+        The WSU Mathematics Department does not tolerate academic dishonesty! For an explanation of what is considered "academic dishonesty" at 
+        WSU, please see the policy included in the <url href="https://catalog.worcester.edu/undergraduate/academic-policies-procedures/academic-honesty">2025-2026 
+        Undergraduate Catalog</url>. All instructors in the WSU Mathematics Department are required to 
+        report all incidents of academic dishonesty observed, detected, or otherwise determined to have occurred to the WSU Academic Central File. 
+        WSU requires some penalty be imposed for every reported violation of the academic honesty policy. All incidents of academic dishonesty in 
+        this course will result in (at least) a score of 0 on that assignment; additional penalties will be imposed at the instructor's discretion 
+        and/or as required by the 
+        <url href="https://webcdn.worcester.edu/mathematics/wp-content/uploads/sites/17/2023/03/Math-Department-Academic-Honesty-Policy.pdf">Mathematics 
+        Department Academic Honesty Policy</url>. In this course, instances of academic dishonesty will include (but are not limited to):
+      </p>
+      <ul>
+        <li>
+          <p>
+            Submitting any assignment you did not complete yourself, either work produced by a classmate/friend or from an online resource
+            (such as an online calculator) or third party (such as Chegg, Course Hero, etc.).
+          </p>
+        </li>
+        <li>
+          <p>
+            Using course materials/notes, the internet, or a calculator/other device in any unauthorized way during an online quiz or an in-person exam.
+          </p>
+        </li>
+        <li>
+          <p>
+            Sharing the contents of a quiz with a classmate.
+          </p>
+        </li>
+      </ul>
+      <p>
+        Generative artificial intelligence (AI), such as ChatGPT, Gemini, Copilot, etc., should not be used in any way to complete graded assignments in this course. 
+        Any evidence of generative AI use on an assignment will be considered an academic honesty violation and will result in at least a 0 on that assignment.
+      </p>
+    </paragraphs>
+
+    <paragraphs>
+      <title>Instructor Rights</title>
+      <p>
+        <alert> As the instructor of this course, I reserve the right to make changes to the above course policies at any time. All changes will be announced via email.</alert>
+      </p>
+    </paragraphs>
+    
+  </subsubsection>
+
+  <subsection xml:id="subsec-slos-lasc">
+    <title>Student Learning Outcomes and LASC</title>
+
+    <paragraphs>
+      <title>Student Learning Outcomes</title>
+      <p>
+        After successfully completing this course, students will be able to ...
+      </p>
+      <ol>
+        <li>
+          <p>
+            Apply different techniques of integration, including substitution, integration by parts, partial fractions, and trigonometric substitution.
+          </p>
+        </li>
+        <li>
+          <p>
+            Use the definite integral in a variety of applications, such as volumes of solids of revolution, arc length of curves, and separable differential equations.
+          </p>
+        </li>
+        <li>
+          <p>
+            Determine absolute and conditional convergence of series using a variety of methods including the integral test, comparison test, limit comparison test, alternating series test, ratio test, and root test.
+          </p>
+        </li>
+        <li>
+          <p>
+            Perform operations on power series to construct related power series.
+          </p>
+        </li>
+        <li>
+          <p>
+            Compute Taylor series of functions and their intervals of convergence.
+          </p>
+        </li>
+      </ol>
+    </paragraphs>
+
+    <paragraphs>
+      <title>Liberal Arts and Sciences Curriculum (LASC)</title>
+      <p>
+        This course counts toward the Quantitative Reasoning (QR) category of the Liberal Arts and Sciences Curriculum (LASC).
+        The course addresses the following LASC Quantitative Reasoning objectives:
+      </p>
+      <ol>
+        <li>
+          <p>
+            Acquaint students with formal systems, procedures, and sequences of operations.
+          </p>
+        </li>
+        <li>
+          <p>
+            Strengthen students' understanding of variables and functions.
+          </p>
+        </li>
+        <li>
+          <p>
+            Apply mathematical techniques to the analysis and solution of real-life problems.
+          </p>
+        </li>
+        <li>
+          <p>
+            Emphasize the importance of accuracy, including precise language and careful definitions of mathematical concepts.
+          </p>
+        </li>
+        <li>
+          <p>
+            Understand both the underlying principles and practical applications of one or more fields of mathematics.
+          </p>
+        </li>
+        <li>
+          <p>
+            Strengthen understanding of the relationship between algebraic and graphical representations.
+          </p>
+        </li>
+      </ol>
+      <p>
+        and the following LASC Overarching objectives:
+      </p>
+      <ol>
+        <li>
+          <p>
+            Communicate effectively orally and in writing.
+          </p>
+        </li>
+        <li>
+          <p>
+            Understand and employ quantitative and qualitative reasoning.
+          </p>
+        </li>
+        <li>
+          <p>
+            Apply skills in critical thinking.
+          </p>
+        </li>
+        <li>
+          <p>
+            Understand the roles of science and technology in our modern world.
+          </p>
+        </li>
+        <li>
+          <p>
+            Make connections across courses and disciplines.
+          </p>
+        </li>
+        <li>
+          <p>
+            Develop as healthy individuals - physically, emotionally, socially, ethically, and intellectually.
+          </p>
+        </li>
+      </ol>
+    </paragraphs>
+  </subsection>
+
+  <subsection xml:id="subsec-schedule">
+    <title>Course Schedule</title>
+    <p>
+      The following table indicates the due dates for all assignments as well as the dates for the in-person exams. 
+      In this table "OPS" stands for "Online Problem Set" and "WPS" stands for "Written Problem Set".
+      Note that the last day to drop the course is <alert> Tuesday, May 26</alert>, and 
+      the last day to withdraw or elect pass/fail status is <alert> Friday, June 5 </alert>. 
+    </p>
+    <tabular halign="center" bottom="medium">
+      <row header="yes">
+        <cell>Week</cell>
+        <cell>Tuesday</cell>
+        <cell>Friday</cell>
+      </row>
+      <row>
+        <cell>May 18</cell>
+        <cell></cell>
+        <cell>
+          <line>OPS 1A:  Substitution</line>
+          <line>OPS 1B:  Integration by Parts</line>
+          <line>WPS 1</line>
+        </cell>
+      </row>
+      <row>
+        <cell>May 25</cell>
+        <cell>
+          <line>OPS 2A: Trigonometric Integrals</line>
+          <line>OPS 2B: Trigonometric Substitution</line>
+          <line>WPS 2</line>
+        </cell>
+        <cell>
+          <line>OPS 3A:  Partial Fractions</line>
+          <line>OPS 3B:  Improper Integrals</line>
+          <line>WPS 3</line>
+          <line>Quiz 1: Units 1 and 2</line>
+        </cell>
+      </row>
+      <row>
+        <cell>June 1</cell>
+        <cell>
+          <line>OPS 4A: Volume</line>
+          <line>OPS 4B: Arclength</line>
+          <line>WPS 4</line>
+        </cell>
+        <cell>
+          <line>OPS 5A:  Separable Differential Equations</line>
+          <line>OPS 5B:  Sequences</line>
+          <line>WPS 5</line>
+          <line>Quiz 2: Units 3 and 4</line>
+        </cell>
+      </row>
+      <row>
+        <cell>June 8</cell>
+        <cell>
+          <line><alert>Midterm</alert></line>
+          <line>9:00am - 11:00am, Sullivan 136</line>
+        </cell>
+        <cell>
+          <line>OPS 6A:  Series</line>
+          <line>OPS 6B:  Geometric Series</line>
+          <line>WPS 6</line>
+        </cell>
+      </row>
+      <row>
+        <cell>June 15</cell>
+        <cell>
+          <line>OPS 7A: Integral Test</line>
+          <line>OPS 7B: Comparison Tests</line>
+          <line>WPS 7</line>
+          <line>Quiz 3: Units 5 and 6</line>
+        </cell>
+        <cell>
+          <line>OPS 8A:  Alternating Series</line>
+          <line>OPS 8B:  Ratio and Root Tests</line>
+          <line>WPS 8</line>
+        </cell>
+      </row>
+      <row>
+        <cell>June 22</cell>
+        <cell>
+          <line>OPS 9A: Power Series</line>
+          <line>OPS 9B: Power Series Representations</line>
+          <line>WPS 9</line>
+          <line>Quiz 4: Units 7 and 8</line>
+        </cell>
+        <cell>
+          <line>OPS 10A:  Taylor and Maclaurin Series</line>
+          <line>OPS 10B:  Working with Taylor Series</line>
+          <line>WPS 10</line>
+        </cell>
+      </row>
+      <row>
+        <cell>June 29</cell>
+        <cell>
+          <line>Quiz 5:  Units 9 and 10 (due Mon 6/29)</line>
+          <line></line>
+          <line><alert>Final Exam (Wed 7/1)</alert> </line>
+          <line>9:00am - 12:00pm, Sullivan 136</line>
+        </cell>
+        <cell>
+          <line>OPS 11A:  Parametric Equations</line>
+          <line>OPS 11B:  Polar Coordinates</line>
+        </cell>
+      </row>
+    </tabular>
+  </subsection>
+</section>
